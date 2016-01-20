@@ -1,6 +1,6 @@
 {
   "name": "pluralize-ru",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pluralization of Russian words",
   "homepage": "https://github.com/kulakowka/pluralize-ru",
   "main": "lib/pluralize.js",
